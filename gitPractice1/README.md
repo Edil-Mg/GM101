@@ -1,2 +1,0 @@
-# gitPractice1
-demo
