@@ -4,16 +4,19 @@ img{
   height: 300px;
 }
 .container {
-  background-image: url("https://img.freepik.com/premium-vector/cocktails-menu-concept_98402-362.jpg?w=826");
+  background-image: url("../resource/image/coctail board.jpg");
 background-size: cover;
   background-position: center;
-  height: 95vh; 
+  height: 105vh; 
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   color: white;
   display: flex;
+}
+.description{
+  max-width: 500px;
 }
 
 
