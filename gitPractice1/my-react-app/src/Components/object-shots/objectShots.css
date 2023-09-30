@@ -4,10 +4,10 @@ img{
   height: 300px;
 }
 .container {
-  background-image: url("https://images.unsplash.com/photo-1589810264340-0ce27bfbf751?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80");
+  background-image: url("https://img.freepik.com/premium-vector/cocktails-menu-concept_98402-362.jpg?w=826");
 background-size: cover;
   background-position: center;
-  height: 130vh; 
+  height: 95vh; 
   display: flex;
   flex-direction: column;
   justify-content: center;
