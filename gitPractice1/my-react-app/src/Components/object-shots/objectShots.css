@@ -1,24 +1,30 @@
-img{
-  display: block;
-  margin: 0 auto;
-  height: 300px;
+img {
+	display: block;
+	margin: 0 auto;
+	height: 300px;
 }
 .container {
-  background-image: url("../resource/image/coctail board.jpg");
-background-size: cover;
-  background-position: center;
-  height: 105vh; 
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  display: flex;
+	background-image: url("../resource/image/coctail board.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 170vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	display: flex;
+	font-size: 10px;
 }
-.description{
-  max-width: 500px;
+.description {
+	max-width: 400px;
+	/* max-height: 50vh; */
 }
+.container .input {
+	margin-top: -1%;
+	/* margin-left:-8% ; */
+	text-align: center;
 
-
-
-
+	width: 70vw !important;
+	border-radius: 9rem !important;
+}
