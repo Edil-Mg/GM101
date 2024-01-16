@@ -18,13 +18,10 @@ img {
 }
 .description {
 	max-width: 400px;
-	/* max-height: 50vh; */
 }
 .container .input {
 	margin-top: -1%;
-	/* margin-left:-8% ; */
 	text-align: center;
-
 	width: 70vw !important;
 	border-radius: 9rem !important;
 }
